@@ -1,0 +1,27 @@
+*{
+    border: 0;
+    margin: 0;
+}
+.Navbar{
+    background-color: rgb(51, 50, 50);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    font-size: 25px;
+}
+
+.link{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+
+button{
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    color: whitesmoke;
+    background-color:orangered;
+    cursor: pointer;
+}

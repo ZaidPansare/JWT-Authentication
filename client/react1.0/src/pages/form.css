@@ -1,0 +1,39 @@
+.SignUp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+}
+
+.Login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+}
+form{
+    height: 450px;
+    padding: 20px 0 20px;
+    background-color: darkslategray;
+    color: whitesmoke; border-radius: 25px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    font-size: large;
+}
+input{
+    border: 1px solid black;
+    height: 30px;
+    width: 250px;
+    border-radius: 15px;
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.link:hover{
+    color: orangered;
+}
